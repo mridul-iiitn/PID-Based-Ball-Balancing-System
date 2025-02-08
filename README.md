@@ -25,8 +25,11 @@ This project uses a PID control system to balance a ping-pong ball on a servo-co
    ```bash
    git clone https://github.com/mridul-iiitn/PID-Based-Ball-Balancing-System.git
 2.Open the project in the Arduino IDE.
+
 3.Connect your Arduino Nano to the computer via USB.
+
 4.Select the correct board and port in the Tools menu of the Arduino IDE.
+
 5.Upload the code to your Arduino Nano.
 
 PID Tuning
